@@ -71,7 +71,7 @@ This is just a conceptual and approximate class design. For viewing purposes, we
 
 ### Data Model
 
-![db](images/db_new.PNG)
+![db](images/db_new.png)
 
 **Explanations:**
 *	**User** - information about our users  
@@ -99,7 +99,7 @@ Adding to the conceptual architecture presented in above, we would like to add t
 
 ### Data Model
 
-![db2](images/db2.PNG)
+![db2](images/db2.png)
 
 
 
