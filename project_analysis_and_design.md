@@ -40,13 +40,13 @@ Logical structure:
 	*	FIFO ordering - messages are processed in the order they are sent    
 ![ordering](images/ordering.PNG)  
 Simple experiment(FIFO mechanism):
-![ordering](images/test.png)
+![ordering](images/test.PNG)
 ### Package Design
 Each packadge will be subdivided following the Layered architecture.
 ![pack](images/pack.png)
 
 ### Component and Deployment Diagrams
-![aux](images/deploy_new.png)
+![aux](images/deploy_new.PNG)
 
 ## Design Model
 
