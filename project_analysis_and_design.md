@@ -1,6 +1,6 @@
-###CALCUL PARALEL SI DISTRIBUIT - NoExam Project
-###Profesor indrumator: Cosmina Ivan
-###Team: Matasariu Gabriel, Dan Harangus, Hantig Cristian Stefan
+### CALCUL PARALEL SI DISTRIBUIT - NoExam Project  
+### Profesor indrumator: Cosmina Ivan  
+### Team: Matasariu Gabriel, Dan Harangus, Hantig Cristian Stefan  
 
 # Chat Room Application Specification
 The CRA will provide a simple inferface where the users can register. After that, they will be able to chat with other users or create chat rooms. Also, all the messages and files will be encrypted, for a secured user ecperience.All the users will be able to report other users for specific reasons and all the reports will be sent to the admin. The master user (admin) will be able to see all the conversations reports, track the active users, kick specific users based by the recieved reports and send master messages to all the users. The applicattion will notify each users when a new user logs in and will provide a list of connected users.
