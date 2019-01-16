@@ -1,6 +1,6 @@
-###PROIECT CALCUL PARALEL SI DISTRIBUIT - NoExam Project - Group Communication  
-###**Profesor indrumator:** Cosmina Ivan
-####Echipa: Matasariu Gabriel, Harangus Dan, Hantig Cristian-Stefan
+### PROIECT CALCUL PARALEL SI DISTRIBUIT - NoExam Project - Group Communication  
+### **Profesor indrumator:** Cosmina Ivan
+#### Echipa: Matasariu Gabriel, Harangus Dan, Hantig Cristian-Stefan
 
 # Chat Room Application Use Case Model
 
