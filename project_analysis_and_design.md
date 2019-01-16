@@ -38,7 +38,7 @@ Logical structure:
 *	**Message ordering module** - in order to assure the correct ordering of the message we process we implemented   2 ordering mechanism:    
 	*	no ordering - the DB will handle the correct order of the messages sent/received  
 	*	FIFO ordering - messages are processed in the order they are sent    
-![ordering](images/ordering.png)  
+![ordering](images/ordering.PNG)  
 Simple experiment(FIFO mechanism):
 ![ordering](images/test.png)
 ### Package Design
