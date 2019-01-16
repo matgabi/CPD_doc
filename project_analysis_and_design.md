@@ -99,7 +99,7 @@ Adding to the conceptual architecture presented in above, we would like to add t
 
 ### Data Model
 
-![db2](images/db2.png)
+![db2](images/db2.PNG)
 
 
 
