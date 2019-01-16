@@ -38,7 +38,7 @@ Logical structure:
 *	**Message ordering module** - in order to assure the correct ordering of the message we process we implemented   2 ordering mechanism:    
 	*	no ordering - the DB will handle the correct order of the messages sent/received  
 	*	FIFO ordering - messages are processed in the order they are sent    
-![ordering](images/ordering.PNG)  
+![ordering](images/ordering.png)  
 Simple experiment(FIFO mechanism):
 ![ordering](images/test.PNG)
 ### Package Design
@@ -63,7 +63,7 @@ Scenario 2: Admin updating a chatroom
 ### Class Design
 This is just a conceptual and approximate class design. For viewing purposes, we didn't included the interfaces for the classes. In the real implementation, all the classes will provide an interface which will be sent to the next layer in order to satisfy the dependency injection principle.
 
-![class1](images/class_new.png)
+![class1](images/class_new.PNG)
 
 ####Report class information:
 *	this class was intended to make a report summarying all the activity of a certain user (private messages, blocked users, chatroom messages) - it should work similar to how facebook offers you a service from which you can extract all the information facebook has about you
@@ -71,7 +71,7 @@ This is just a conceptual and approximate class design. For viewing purposes, we
 
 ### Data Model
 
-![db](images/db_new.png)
+![db](images/db_new.PNG)
 
 **Explanations:**
 *	**User** - information about our users  
@@ -91,11 +91,11 @@ Adding to the conceptual architecture presented in above, we would like to add t
  
 ### Package Design 
 
-![pack1](images/package_new.png)
+![pack1](images/package_new.PNG)
 
 ### Component and deployment diagram
 
-![comp1](images/deploy.png)
+![comp1](images/deploy.PNG)
 
 ### Data Model
 
